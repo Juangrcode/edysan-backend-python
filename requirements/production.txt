@@ -1,0 +1,9 @@
+
+
+-r ./base.txt
+
+gunicorn==20.1.0
+
+django-storages==1.12.3
+
+django-anymail[mailgun]==8.4
